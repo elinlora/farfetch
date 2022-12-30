@@ -218,5 +218,137 @@
       </mj-column>
     </mj-section>
     <!-- ======> / The Statement Coat Products <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> The Classic Overcoat Heading <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="24px" letter-spacing="1px" color="#333333">
+          The Classic Overcoat
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Classic Overcoat Heading <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> The Classic Overcoat Products <====== -->
+    <mj-section background-color="#ffffff" direction="rtl">
+      <mj-column vertical-align="middle" padding="15px">
+        <mj-image css-class="prod-col-img" href="#" src="https://i.ibb.co/ZXn1jyW/farfetch-model-2.png" alt="Farfetch Model" />
+      </mj-column>
+      <mj-column css-class="prod-col-items" vertical-align="middle" padding="15px">
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/ZJYw55m/burberry.png" alt="Burberry" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">burberry</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/Dkb9b32/balenciaga.png" alt="Balenciaga" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">balenciaga</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+        <mj-text padding-top="30px">
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/0c9zwVS/salvatore-ferragamo.png" alt="Salvatore Ferragamo" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">Salvatore Ferragamo</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/bNmxydv/tibi.png" alt="Tibi" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">Tibi</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Classic Overcoat Products <====== -->
   </mj-body>
 </mjml>
