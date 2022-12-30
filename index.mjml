@@ -50,9 +50,19 @@
     <!-- <mj-include path="components/header.mjml" /> -->
     <mj-section background-color="#ffffff">
       <mj-column padding="21px 0">
-        <mj-image href="#" src="https://i.ibb.co/hcdQFnL/farfetch-logo.png" alt="Farfetch" width="210px" />
+        <mj-text align="center">
+          <a href="#" style="font-size: 9px; color: #333333;">View in Browser</a>
+        </mj-text>
+        <mj-image padding-top="30px" href="#" src="https://i.ibb.co/hcdQFnL/farfetch-logo.png" alt="Farfetch" width="210px" />
       </mj-column>
     </mj-section>
     <!-- ======> / Header <====== -->
+    <!-- ======> Hero <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="30px 0">
+        <mj-image href="#" src="https://i.ibb.co/pXZD2RG/farfetch-hero.png" alt="Farfetch Model" width="600px" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Hero <====== -->
   </mj-body>
 </mjml>
