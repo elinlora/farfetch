@@ -49,7 +49,7 @@
     <!-- ======> Header <====== -->
     <!-- <mj-include path="components/header.mjml" /> -->
     <mj-section background-color="#ffffff">
-      <mj-column padding="21px 0">
+      <mj-column padding="21px 0 0">
         <mj-text align="center">
           <a href="#" style="font-size: 9px; color: #333333;">View in Browser</a>
         </mj-text>
@@ -57,12 +57,27 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Header <====== -->
-    <!-- ======> Hero <====== -->
+    <!-- ======> Hero Image <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column padding="30px 0">
+      <mj-column padding="60px 0">
         <mj-image href="#" src="https://i.ibb.co/pXZD2RG/farfetch-hero.png" alt="Farfetch Model" width="600px" />
       </mj-column>
     </mj-section>
-    <!-- ======> / Hero <====== -->
+    <!-- ======> / Hero Image <====== -->
+    <!-- ======> Hero Copy & CTA <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="40px" font-weight="700" letter-spacing="1px" text-transform="uppercase" color="#333333">
+          The New-Season <br> Coat Edit
+        </mj-text>
+        <mj-text align="center" padding="40px 30px" font-family="Times New Roman" font-size="18px" line-height="21px">
+          From the updated cape to the reinterpretation of a sportswear classic, staple styles have been modernized this fall. Choose yours from the season’s greatest edit of outerwear to inspire.
+        </mj-text>
+        <mj-button href="#" font-size="15px" font-weight="500" text-transform="uppercase" letter-spacing="1px" inner-padding="15px 70px" background-color="#333333">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Hero Copy & CTA <====== -->
   </mj-body>
 </mjml>
