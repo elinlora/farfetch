@@ -118,5 +118,98 @@
       </mj-column>
     </mj-section>
     <!-- ======> / White Space <====== -->
+    <!-- ======> The Statement Coat Products <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column vertical-align="middle" padding="15px">
+        <mj-image href="#" src="https://i.ibb.co/8Xc501y/farfetch-model-1.png" alt="Farfetch Model" />
+      </mj-column>
+      <mj-column vertical-align="middle" padding="15px">
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/2WdzZPz/stand-studio.png" alt="Stand Studio" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: uppercase; color: #333333;">stand studio</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/jVs9GHd/bottega-veneta.png" alt="Bottega Veneta" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">bottega veneta</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+        <mj-text padding-top="30px">
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/2662TH5/batsheva.png" alt="Batsheva" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">batsheva</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/N2Smrfm/gucci.png" alt="Gucci" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">gucci</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Statement Coat Products <====== -->
   </mj-body>
 </mjml>
