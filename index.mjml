@@ -42,7 +42,14 @@
         border: 0;
       }
       /* ======> Mobile <====== */
-      @media only screen and (max-width: 599.8px) {}
+      @media only screen and (max-width: 599.8px) {
+        .prod-col-img > table > tbody > tr > td {
+          width: 100% !important;
+        }
+        .prod-col-items {
+          padding-top: 15px !important;
+        }
+      }
     </mj-style>
   </mj-head>
   <mj-body background-color="#f6f6f6">
@@ -86,7 +93,7 @@
           <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
             <tbody>
               <tr>
-                <td style="padding: 30px 0;"></td>
+                <td style="padding: 24px 0;"></td>
               </tr>
             </tbody>
           </table>
@@ -110,7 +117,7 @@
           <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
             <tbody>
               <tr>
-                <td style="padding: 30px 0;"></td>
+                <td style="padding: 24px 0;"></td>
               </tr>
             </tbody>
           </table>
@@ -121,9 +128,9 @@
     <!-- ======> The Statement Coat Products <====== -->
     <mj-section background-color="#ffffff">
       <mj-column vertical-align="middle" padding="15px">
-        <mj-image href="#" src="https://i.ibb.co/8Xc501y/farfetch-model-1.png" alt="Farfetch Model" />
+        <mj-image css-class="prod-col-img" href="#" src="https://i.ibb.co/8Xc501y/farfetch-model-1.png" alt="Farfetch Model" />
       </mj-column>
-      <mj-column vertical-align="middle" padding="15px">
+      <mj-column css-class="prod-col-items" vertical-align="middle" padding="15px">
         <mj-text>
           <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
             <tbody>
