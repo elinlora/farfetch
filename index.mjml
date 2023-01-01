@@ -80,7 +80,7 @@
         <mj-text align="center" padding="40px 30px" font-family="Times New Roman" font-size="18px" line-height="21px">
           From the updated cape to the reinterpretation of a sportswear classic, staple styles have been modernized this fall. Choose yours from the season’s greatest edit of outerwear to inspire.
         </mj-text>
-        <mj-button href="#" font-size="15px" font-weight="500" text-transform="uppercase" letter-spacing="1px" inner-padding="15px 70px" background-color="#333333">
+        <mj-button href="#" font-size="15px" font-weight="500" text-transform="uppercase" letter-spacing="1px" inner-padding="15px 70px" background-color="#222222">
           Shop Now
         </mj-button>
       </mj-column>
@@ -614,6 +614,30 @@
       </mj-column>
     </mj-section>
     <!-- ======> / The Classic Overcoat Products <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 36px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> Shop Now CTA <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-button href="#" font-size="15px" font-weight="500" text-transform="uppercase" letter-spacing="1px" inner-padding="15px 70px" background-color="#222222">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Shop Now CTA <====== -->
     <!-- ======> White Space <====== -->
     <mj-section background-color="#ffffff">
       <mj-column>
