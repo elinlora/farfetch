@@ -66,7 +66,7 @@
     <!-- ======> / Header <====== -->
     <!-- ======> Hero Image <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column padding="60px 0">
+      <mj-column padding="45px 0">
         <mj-image href="#" src="https://i.ibb.co/pXZD2RG/farfetch-hero.png" alt="Farfetch Model" width="600px" />
       </mj-column>
     </mj-section>
@@ -350,5 +350,44 @@
       </mj-column>
     </mj-section>
     <!-- ======> / The Classic Overcoat Products <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> The Elevated Puffer Heading <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="24px" letter-spacing="1px" color="#333333">
+          The Elevated Puffer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Elevated Puffer Heading <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
   </mj-body>
 </mjml>
