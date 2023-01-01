@@ -55,6 +55,10 @@
         .boots-pad {
           padding-top: 30px !important;
         }
+        .footer-nav {
+          display: block !important;
+          line-height: 54px !important;
+        }
       }
     </mj-style>
   </mj-head>
@@ -696,12 +700,50 @@
           <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
             <tbody>
               <tr>
-                <td style="padding: 24px 0;"></td>
+                <td style="padding: 36px 0;"></td>
               </tr>
             </tbody>
           </table>
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> Footer <====== -->
+    <!-- <mj-include path="components/footer.mjml" /> -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding-bottom="60px">
+        <mj-text align="center">
+          <a href="#" style="padding: 0 21px;">
+            <img src="https://i.ibb.co/PZrRcgf/instagram.png" alt="Instagram" style="height: 21px;">
+          </a>
+          <a href="#" style="padding: 0 21px;">
+            <img src="https://i.ibb.co/TK3wsF2/facebook.png" alt="Facebook" style="height: 21px;">
+          </a>
+          <a href="#" style="padding: 0 21px;">
+            <img src="https://i.ibb.co/rFtc17t/twitter.png" alt="Twitter" style="height: 21px;">
+          </a>
+          <a href="#" style="padding: 0 21px;">
+            <img src="https://i.ibb.co/GstB1q1/pinterest.png" alt="Pinterest" style="height: 21px;">
+          </a>
+        </mj-text>
+        <mj-text align="center" padding-top="45px">
+          <span style="text-transform: uppercase;">farfetch</span> App for <a href="#" style="text-decoration: underline; color: #000000;">iOS</a> and <a href="#" style="text-decoration: underline; color: #000000;">Android</a>
+        </mj-text>
+        <mj-text align="center" padding-top="45px">
+          <a class="footer-nav" href="#" style="color: #000000; padding: 0 21px;">Email Preferences</a>
+          <a class="footer-nav" href="#" style="color: #000000; padding: 0 21px;">My Account</a>
+          <a class="footer-nav" href="#" style="color: #000000; padding: 0 21px;">Help &amp; Contact Us</a>
+          <a class="footer-nav" href="#" style="color: #000000; padding: 0 21px;">Unsubscribe</a>
+        </mj-text>
+        <mj-text align="center" padding-top="45px">
+          <p style="font-size: 10px;">FARFETCH, The Bower, 211 Old Street London, EC1V 9NR</p>
+          <br>
+          <p style="font-size: 10px;">Please note this is our registered office and returns cannot be accepted here.</p>
+          <br>
+          <p style="font-size: 10px;">UK company number 06400760 | © 2020 FARFETCH</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
