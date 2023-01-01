@@ -497,5 +497,29 @@
       </mj-column>
     </mj-section>
     <!-- ======> / White Space <====== -->
+    <!-- ======> The Cape Heading <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="24px" letter-spacing="1px" color="#333333">
+          The Cape
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Cape Heading <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
   </mj-body>
 </mjml>
