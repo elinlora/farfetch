@@ -389,5 +389,113 @@
       </mj-column>
     </mj-section>
     <!-- ======> / White Space <====== -->
+    <!-- ======> The Elevated Puffer Products <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column vertical-align="middle" padding="15px">
+        <mj-image css-class="prod-col-img" href="#" src="https://i.ibb.co/DMFvNkm/farfetch-model-3.png" alt="Farfetch Model" />
+      </mj-column>
+      <mj-column css-class="prod-col-items" vertical-align="middle" padding="15px">
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/DQdh8By/bottega-veneta-2.png" alt="Bottega Veneta" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">bottega veneta</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/hsjwrMh/valentino.png" alt="Valentino" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">valentino</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+        <mj-text padding-top="30px">
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td bgcolor="" style="">
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/6XbyGYB/moncler.png" alt="Moncler" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">moncler</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="50%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+                    <tbody>
+                      <tr>
+                        <td align="center">
+                          <a href="#">
+                            <img src="https://i.ibb.co/dLxVtXp/jil-sander.png" alt="Jil Sander" style="max-width: 100%;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="padding-top: 15px;">
+                          <a href="#" style="font-weight: 600; text-transform: capitalize; color: #333333;">jil sander</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / The Elevated Puffer Products <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          <table width="100%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+            <tbody>
+              <tr>
+                <td style="padding: 24px 0;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
   </mj-body>
 </mjml>
